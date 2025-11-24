@@ -1,0 +1,38 @@
+[
+    {
+      "id": 25,
+      "name_jp": "ピカチュウ",
+      "name_en": "Pikachu",
+      "types": ["でんき"],
+      "height_m": 0.4,
+      "weight_kg": 6.0,
+      "description": "ほっぺたの電気袋に電気をためこむネズミポケモン。仲間どうしでしっぽを合わせて電気で合図を送りあう。"
+    },
+    {
+      "id": 1,
+      "name_jp": "フシギダネ",
+      "name_en": "Bulbasaur",
+      "types": ["くさ", "どく"],
+      "height_m": 0.7,
+      "weight_kg": 6.9,
+      "description": "生まれたときから背中に植物のタネを背負っており、少しずつ大きく育っていく。"
+    },
+    {
+      "id": 4,
+      "name_jp": "ヒトカゲ",
+      "name_en": "Charmander",
+      "types": ["ほのお"],
+      "height_m": 0.6,
+      "weight_kg": 8.5,
+      "description": "尻尾の先で燃えている炎は体調のバロメーター。元気がないと小さく、元気だと勢いよく燃え上がる。"
+    },
+    {
+      "id": 7,
+      "name_jp": "ゼニガメ",
+      "name_en": "Squirtle",
+      "types": ["みず"],
+      "height_m": 0.5,
+      "weight_kg": 9.0,
+      "description": "甲羅にこもって身を守るカメポケモン。口から勢いよく水を吹き出して戦う。"
+    }
+  ]
