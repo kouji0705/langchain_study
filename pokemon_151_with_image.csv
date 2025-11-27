@@ -1,0 +1,151 @@
+id,name_jp,name_en,type1,type2,description,image_url
+1,フシギダネ,bulbasaur,grass,poison,うまれたときから せなかに ふしぎな タネが うえてあって からだと ともに そだつという。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png
+2,フシギソウ,ivysaur,grass,poison,つぼみが せなかに ついていて ようぶんを きゅうしゅうしていくと おおきな はなが さくという。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png
+3,フシギバナ,venusaur,grass,poison,おおきな はなびらを ひろげ たいようの ひかりを あびていると からだに げんきが みなぎっていく。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png
+4,ヒトカゲ,charmander,fire,,しっぽの ほのおは ヒトカゲの せいめいりょくの あかし。 げんきだと さかんに もえさかる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png
+5,リザード,charmeleon,fire,,しっぽを ふりまわして あいてを なぎたおし するどい ツメで ズタズタに ひきさいてしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png
+6,リザードン,charizard,fire,flying,くちから しゃくねつの ほのおを はきだすとき しっぽの さきは より あかく はげしく もえあがる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png
+7,ゼニガメ,squirtle,water,,こうらに とじこもり みを まもる。 あいての すきを みのがさず みずを ふきだして はんげきする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png
+8,カメール,wartortle,water,,ポカンと あたまを たたかれるとき こうらに ひっこんで よける。でも ちょっとだけ しっぽが でているよ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png
+9,カメックス,blastoise,water,,からだが おもたく のしかかって あいてを きぜつさせる。 ピンチの ときは カラに かくれる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png
+11,トランセル,metapod,bug,,こうてつのように かたい カラで やわらかい なかみを まもっている。 しんかするまで じっと たえている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png
+12,バタフリー,butterfree,bug,flying,はなの ミツが だいこうぶつ。 わずかな かふんで はなばたけの ばしょを さがしだすことが できる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png
+13,ビードル,weedle,bug,poison,もりや くさちに おおく せいそく。 あたまの さきに ５センチぐらいの ちいさく するどい どくばりをもつ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png
+14,コクーン,kakuna,bug,poison,じぶんでは ほとんど うごけないが あぶないときは かたくなって みを まもっているようだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png
+15,スピアー,beedrill,bug,poison,りょうてと おしりにある ３ぼんの どくばりで あいてを さして さして さしまくって こうげきする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png
+16,ポッポ,pidgey,normal,flying,もりや はやしに おおく ぶんぷ。 ちじょうでも はげしく はばたいて すなを かけたりする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png
+17,ピジョン,pidgeotto,normal,flying,あしの ツメが はったつしている。 エサの タマタマを つかんで １００キロさきの す まで はこぶ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png
+18,ピジョット,pidgeot,normal,flying,エサを さがすとき すいめん すれすれを すべるように とんで コイキングなどを わしづかみにする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png
+19,コラッタ,rattata,normal,,キバが２つ。とにかく なんでも かじってみる。１ぴき みつけたら ４０ぴきは そこに すんでるはず。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png
+20,ラッタ,raticate,normal,,のびつづける まえばを けずるため かたい ものを かじる しゅうせい。 ブロックべいも かじって こわす。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png
+21,オニスズメ,spearow,normal,flying,じぶんの テリトリーを まもるため みじかいハネを はばたかせ いそがしく とびまわっている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png
+22,オニドリル,fearow,normal,flying,おおきな つばさで おおぞらを とびつづけることが できる。 １かいも おりなくても へいきだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png
+23,アーボ,ekans,poison,,そだつほどに どんどん ながくなる。 そして よなかは きのえだに グルグルと からまって やすむ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png
+24,アーボック,arbok,poison,,おなかの もようが こわいかおに みえる。よわいてきは そのもようを みただけで にげだしてしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png
+25,ピカチュウ,pikachu,electric,,しっぽを たてて まわりの ようすを さぐっていると ときどき かみなりが しっぽに おちてくる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png
+26,ライチュウ,raichu,electric,,でんきが たまってくると きんにくが しげきされ いつもより こうげきてきに なってしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png
+27,サンド,sandshrew,ground,,じめんに あなを ほって すむ。 じぶんに きけんが せまると まるくなって みを まもる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png
+28,サンドパン,sandslash,ground,,すごい いきおいで じめんをほると トゲや ツメが おれてしまうが つぎのひには はえそろっている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png
+29,ニドラン♀,nidoran-f,poison,,からだは ちいさくても どくばりを もつため ちゅういが ひつようだ。 メスのほうが ツノが ちいさい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png
+30,ニドリーナ,nidorina,poison,,メスなので せいかくは おんこう。 くちから だす ちょうおんぱは あいてを まどわす ちからがある。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png
+31,ニドクイン,nidoqueen,poison,ground,ウロコで おおわれた がんじょうな からだで すあなの いりぐちをふさぎ てきから こどもたちを まもる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png
+32,ニドラン♂,nidoran-m,poison,,くさむらの うえに みみだけ だして まわりの けはいを さぐる。 もうどくの ツノで みを まもる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png
+33,ニドリーノ,nidorino,poison,,はったつした みみを たてて まわりの けはいを さぐる。 なにかあると すぐに とびかかる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png
+34,ニドキング,nidoking,poison,ground,いしのように かたい ひふと ながく のびた ツノが とくちょう。 ツノには どくもあるので ちゅうい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png
+35,ピッピ,clefairy,fairy,,まんげつのよる ピッピが あつまって ダンスを おどるようすを みると しあわせに なれると いわれている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png
+36,ピクシー,clefable,fairy,,１キロさきで おちた ハリの おとも ききわける すぐれた みみを もつ。 しずかな やまおくに すんでいる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png
+37,ロコン,vulpix,fire,,うまれたとき しっぽは まっしろで １ぽんしかない。そだつと やがて さきが わかれて しっぽが ふえる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png
+38,キュウコン,ninetales,fire,,おうごんに かがやく たいもうと ９ほんの ながい しっぽを もつ。 １０００ねんは いきると いわれる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png
+39,プリン,jigglypuff,normal,fairy,まるくて おおきい ひとみで さそいこみ ここちよい うたを うたい あいてを ねむらせる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png
+40,プクリン,wigglytuff,normal,fairy,２ひき よりそいあうと おたがいの けがわが きもちよすぎて はなれられなく なってしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png
+41,ズバット,zubat,poison,flying,くちから だす ちょうおんぱで りょうめが なくても まわりの しょうがいぶつを さっちできる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png
+42,ゴルバット,golbat,poison,flying,かみついたら さいご。しぬほど ちを すいまくるので おもたくなって じぶんで とべなくなることもある。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png
+43,ナゾノクサ,oddish,grass,poison,ひるまは たいようを さけるため つめたい じめんに もぐっている。 つきのひかりを あびて そだつ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png
+44,クサイハナ,gloom,grass,poison,もうれつな クサさ！ それなのに １０００にんに ひとりぐらい これを このんで かぐひとがいる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png
+45,ラフレシア,vileplume,grass,poison,世界一 大きな 花びらは 歩くたびに 揺れて 大量の 毒花粉を ばらまいてしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png
+46,パラス,paras,bug,grass,むしの せなかに はえているのは とうちゅうかそう という キノコ。 そだつと キノコも おおきくなる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png
+47,パラセクト,parasect,bug,grass,からだよりも おおきな キノコが パラセクトを あやつっている。 どくの ほうしを ばらまく。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png
+48,コンパン,venonat,bug,poison,ちいさな めが たくさん あつまって おおきな めに なっている。 よるになると あかりに あつまる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png
+49,モルフォン,venomoth,bug,poison,ばらまかれた りんぷんに ふれると からだの かんかくが おかしくなって まっすぐ たって いられなくなる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png
+50,ディグダ,diglett,ground,,ちか１メートルくらいを ほりすすみ きのねっこなどを かじって いきる。 たまに ちじょうに かおをだす。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png
+51,ダグトリオ,dugtrio,ground,,ちちゅうを ほりすすんで あいてが ゆだんしているところを べつの ばしょから こうげきする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png
+52,ニャース,meowth,normal,,よなかに こうどうする しゅうせい。 きらきら ひかるものを みつけると まけないくらい ひとみが かがやく。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png
+53,ペルシアン,persian,normal,,けなみが うつくしく ペットに したがる ひとも おおいが すぐ ひっかいたり するので てごわいぞ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png
+54,コダック,psyduck,water,,いつも ずつうに なやまされている。 この ずつうが はげしくなると ふしぎな ちからを つかいはじめる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png
+55,ゴルダック,golduck,water,,ゆうぐれ みずべに すがたをみせる。 ひたいが あやしく ひかるとき じんつうりきを つかいこなすという。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png
+56,マンキー,mankey,fighting,,いみもなく おこって あばれだすと なかまの くべつも つかなくなるので ちかよるのは ひじょうに きけんだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png
+57,オコリザル,primeape,fighting,,まわりに だれも いないときだけは おこるのを やめている。しかし それをみるのは むずかしい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png
+58,ガーディ,growlithe,fire,,ひとなつこく せいじつな せいかく。 てきには ほえて かみつき おいはらおう とする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png
+59,ウインディ,arcanine,fire,,むかしから おおくの ひとを とりこにした うつくしい ポケモン。 とぶように かろやかに はしる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png
+60,ニョロモ,poliwag,water,,スベスベした くろいひふは うすく しめっている。ないぞうの いちぶが すけて うずまきじょうに みえる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png
+61,ニョロゾ,poliwhirl,water,,りくでも すいちゅうでも くらせる。 ちじょうでは いつも あせをかき ひふを ぬめぬめ させている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png
+62,ニョロボン,poliwrath,water,fighting,きょうじんな きんにくを もつ。 たいへいようを やすむことなく およぎつづけることが できるのだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png
+63,ケーシィ,abra,psychic,,１にち １８じかんは ねている。 ねむってる あいだでも さまざまな ちょうのうりょくを つかう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png
+64,ユンゲラー,kadabra,psychic,,ちょうのうりょくを はっきすると つよい アルファはを だして せいみつきかいを こわしてしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png
+65,フーディン,alakazam,psychic,,のうさいぼうは いつも ぶんれつして しぬまで ふえつづけるので あらゆることを おぼえておける。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png
+66,ワンリキー,machop,fighting,,ゴローンを なんども あげおろしして ぜんしんの きんにくを きたえる。 あらゆる かくとうぎを つかう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png
+67,ゴーリキー,machoke,fighting,,すごく きょうじんな にくたいなので パワーセーブ ベルトを つけて つよさを せいぎょしている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png
+68,カイリキー,machamp,fighting,,はったつした ４ほんの うでは ２びょうかんに １０００ぱつの パンチを くりだすことができる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png
+69,マダツボミ,bellsprout,grass,poison,ひょろっとした からだつき だが えものを とらえるときの うごきは めにも とまらないほど すばやい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png
+70,ウツドン,weepinbell,grass,poison,はっぱの ぶぶんは カッターになって あいてを きりさく。くちからは なんでも とかす えきたいを はく。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png
+71,ウツボット,victreebel,grass,poison,ジャングルの おくちに ウツボット ばかり いる ちたいが あって いったら ２どと かえってこれない。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png
+72,メノクラゲ,tentacool,water,poison,からだの ほとんどが すいぶん。 すいしょうのような めだまから ふしぎな ビームを はっしゃする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png
+73,ドククラゲ,tentacruel,water,poison,しょくしゅは ふだん みじかくて えものを さすときに ながく のびて からみつくのだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png
+74,イシツブテ,geodude,rock,ground,そうげんや やまに せいそくする。 いしころに にていて きがつかずに ふんだり つまずいたり してしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png
+75,ゴローン,graveler,rock,ground,やまから ころがり おちるとき からだの あちこちが とれても きにしない ごうかいな せいかく。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png
+76,ゴローニャ,golem,rock,ground,さんちょうから ふもとまで つづく みぞは ゴローニャが ころがりおちる とおりみちなので ようちゅうい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png
+77,ポニータ,ponyta,fire,,うまれたばかりでは たつのがやっと。 だが はしるほどに あしこしは きたえられて そくどが ましていく。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png
+78,ギャロップ,rapidash,fire,,はやく うごく ぶったいを みると きょうそう したくなり もうれつな スピードで おいかけ はじめる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png
+79,ヤドン,slowpoke,water,psychic,いつも ボーッとしていて なにを かんがえているか わからない。 しっぽで エサを つるのが とくい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png
+80,ヤドラン,slowbro,water,psychic,くっついている シェルダーは しっぽから にじみでる うまみが ほしくて ずっと はなれない。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png
+81,コイル,magnemite,electric,steel,さゆうの ユニットから じゅうりょくを さえぎる ちからを だすので くうちゅうに うかべる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png
+82,レアコイル,magneton,electric,steel,ふくすうの コイルが れんけつして きょうりょくな じりょくせんと こうでんあつを ほうしゃする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png
+83,カモネギ,farfetchd,normal,flying,もっている クキは たいせつな ぶきでもあり かたなを ふるように いろんなものを きることが できる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png
+84,ドードー,doduo,normal,flying,とつぜんへんいで みつかった ２つの あたまを もつ ポケモン。 じそく １００キロで はしる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png
+85,ドードリオ,dodrio,normal,flying,３つの あたまが みているまえで わずかでも すきを みせると くちばしで はげしく つつかれる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png
+86,パウワウ,seel,water,,ひょうざんで くらす ポケモン。 あたまの とがった でっぱりで こおりを わって うみを およぐ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png
+87,ジュゴン,dewgong,water,ice,ぜんしんが まっしろな けで おおわれている。さむさに つよく むしろ さむいほど げんきになる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png
+88,ベトベター,grimer,poison,,つきからの エックスせんをあびた ヘドロが ベトベターにへんかした。 きたないモノが だいこうぶつ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png
+89,ベトベトン,muk,poison,,ヘドロが たまる くさい ばしょを このんで あつまってくるので あたりは いっそう くさくなる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png
+90,シェルダー,shellder,water,,かたいカラは どんな こうげきも はねかえす。ひらいた ときに なかを こうげき されると よわい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png
+91,パルシェン,cloyster,water,ice,しおのながれが はげしい うみに せいそくしている パルシェンの カラのトゲは おおきく するどい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png
+92,ゴース,gastly,ghost,poison,ガスでできた うすい からだは どんな おおきさの あいても つつみこみ いきのねを とめる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png
+93,ゴースト,haunter,ghost,poison,くらやみで だれもいないのに みられているような きがしたら そこに ゴーストが いるのだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png
+94,ゲンガー,gengar,ghost,poison,ものかげに すがたを かくす。 ゲンガーの ひそんでいる へやは おんどが ５ど さがると いわれる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png
+95,イワーク,onix,rock,ground,ちちゅうを ものすごい いきおいで ほりすすみ エサを さがす。とおった あとは ディグダの すみかになる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png
+96,スリープ,drowzee,psychic,,ねむらせては ユメを たべるが わるい ユメばかり たべてると おなかを こわすことが あるらしい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png
+97,スリーパー,hypno,psychic,,ふりこのようなものを もちあるく。 こどもに さいみんじゅつを かけて どこかへ つれさるじけんが あった。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png
+98,クラブ,krabby,water,,きけんがせまると くちから はきだす あわで ぜんしんを つつんで からだを おおきく みせようとする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png
+99,キングラー,kingler,water,,かたい ハサミは １まんばりきの パワーを もっているが おおきすぎて うごきが にぶい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png
+100,ビリリダマ,voltorb,electric,,モンスターボールが うりだされたのと おなじ じきに はっけんされた。 なにか かんけいがある といわれる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png
+101,マルマイン,electrode,electric,,すこしの しげきに はんのうして ばくはつする。バクダンボールという あだなで こわがられて いる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png
+102,タマタマ,exeggcute,grass,psychic,テレパシーで かいわをしているため タマタマを ひきはなそうとしても すぐに あつまって ６ぴきになる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png
+103,ナッシー,exeggutor,grass,psychic,３つの あたまは かんがえることは べつべつでも なかよし なので ケンカしたり しないらしい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png
+104,カラカラ,cubone,ground,,しにわかれた ははおやの ほねを あたまに かぶっている。さびしいとき おおごえで なくという。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png
+105,ガラガラ,marowak,ground,,からだも ちいさく もともと よわかった。ホネを つかうようになり せいかくが きょうぼうか した。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png
+106,サワムラー,hitmonlee,fighting,,あしが じゆうに のびちぢみして とおく はなれている ばあいでも あいてを けりあげることが できる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png
+107,エビワラー,hitmonchan,fighting,,うでを ねじりながら くりだす パンチは コンクリートも ふんさい。 ３ぷん たたかうと ひとやすみする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png
+108,ベロリンガ,lickitung,normal,,ながい したは ねばねばした だえきで べっとり。どんなものでも くっついて とても べんり。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png
+109,ドガース,koffing,poison,,うすい バルーンじょうの からだに もうどくの ガスが つまっている。 ちかくにくると くさい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png
+110,マタドガス,weezing,poison,,どちらかが ふくらむと かたほうは しぼむ ふたごの ドガース。いつも たいないの どくガスを まぜている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png
+111,サイホーン,rhyhorn,ground,rock,あたまは わるいが ちからが つよく こうそうビルも たいあたりで コナゴナに ふんさいする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png
+112,サイドン,rhydon,ground,rock,ぜんしんを よろいのような ひふで まもっている。２０００どの マグマの なかでも いきられる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png
+113,ラッキー,chansey,normal,,しあわせを はこぶと いわれている。 きずついた ひとに タマゴを わけてあげる やさしい ポケモン。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png
+114,モンジャラ,tangela,grass,,たくさんの うごめく ツルに おおわれて しょうたいふめい。 あおいツルは いっしょう のびる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png
+115,ガルーラ,kangaskhan,normal,,おなかの ふくろで こそだてをする。 あんぜんな ときだけ こどもを ふくろから だして あそばせる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png
+116,タッツー,horsea,water,,すいめんから いきおいよく スミを はっしゃして とんでいる ムシを うちおとす ことが あるという。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png
+117,シードラ,seadra,water,,うかつに さわろうとすると からだじゅうに はえる トゲに さされて きぜつすることも ある。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png
+118,トサキント,goldeen,water,,５ノットの スピードで およぐ。 みの きけんを かんじると するどい ツノで はんげきする。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png
+119,アズマオウ,seaking,water,,あきが くると さんらんの ために ながれに さからって ちからづよく かわを およぐ すがたが みられる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png
+120,ヒトデマン,staryu,water,,からだの ちゅうしんで ひかる コアが あるかぎり からだが ちぎれても さいせい できる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png
+121,スターミー,starmie,water,psychic,まんなかの コアとよばれる ぶぶんは なないろに かがやく。これを ほうせきにする ひとも いるという。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png
+122,バリヤード,mr-mime,psychic,fairy,ゆびさきから だす はどうが くうきを かためて カベを つくる。 はげしい こうげきも はねかえす。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png
+123,ストライク,scyther,bug,flying,するどいカマで えものを きりさき いきのねを とめる。ごくまれに ハネをつかって とぶ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png
+124,ルージュラ,jynx,ice,psychic,こしを ふるように あるいている。 ゆだんをすると おもわず つられて おどってしまうという。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png
+125,エレブー,electabuzz,electric,,からだの ひょうめんには でんきが ながれている。あたりが くらいと ぜんしんが あおじろく ひかるのだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png
+126,ブーバー,magmar,fire,,かざんの かこうちかくで みつかった。くちから ほのおをはく。 たいおんは １２００ど もある。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png
+127,カイロス,pinsir,bug,,２ほんの ツノで えものを はさんで ちぎれるまで はなさない。ちぎれない ときは かなたまで なげとばすのだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png
+128,ケンタロス,tauros,normal,,３ぼんのしっぽで じぶんを たたき たたかう きもちを たかめると ぜんそくりょくで つっこんでくる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png
+129,コイキング,magikarp,water,,ちからも スピードも ほとんどダメ。 せかいで いちばん よわくて なさけない ポケモンだ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png
+130,ギャラドス,gyarados,water,flying,あらそいの おこった むらを やきつくしたという きろくが こもんじょに のこされている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png
+131,ラプラス,lapras,water,ice,やさしい こころの もちぬし。 めったに あらそわないため たくさん つかまえられ かずが へった。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png
+132,メタモン,ditto,normal,,ぜんしんの さいぼうを くみかえて みたものの かたち そっくりに へんしんする のうりょくを もつ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png
+133,イーブイ,eevee,normal,,しんかのとき すがたと のうりょくが かわることで きびしい かんきょうに たいおうする めずらしい ポケモン。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png
+134,シャワーズ,vaporeon,water,,きれいな みずべを このんでいる。 さいぼうが みずのぶんしに にており みずに とけることもできる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png
+135,サンダース,jolteon,electric,,たいないに でんきが たまると ぜんしんの たいもうが ぜんぶ するどく とがりはじめる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png
+136,ブースター,flareon,fire,,たいないに ほのおぶくろを もつ。 たたかいが はじまる ちょくぜんには たいおんが ９００どまで あがる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png
+137,ポリゴン,porygon,normal,,けんきゅうのすえ うみだされた じんこうの ポケモン。きほんてきな どうさしか プログラムされていない。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png
+138,オムナイト,omanyte,rock,water,おおむかし うみに すんでいた こだい ポケモン。１０ぽんの あしを くねらせて およぐ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png
+139,オムスター,omastar,rock,water,しょくしゅが てあしのように はったつしてる。しがみつくと どうじに かみついてくる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png
+140,カブト,kabuto,rock,water,３おくねんまえの すなはまで くらしていたと かんがえられている。 かたい カラが みを まもる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png
+141,カブトプス,kabutops,rock,water,すいちゅうを いどうするとき てあしを ちいさく おりたたみ こうらを くねらせ はやく およぐ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png
+142,プテラ,aerodactyl,rock,flying,こはくに のこされた きょうりゅうの いでんしから ふっかつさせた。 たかいこえで なきながら とぶ。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png
+143,カビゴン,snorlax,normal,,１にちに たべものを ４００キロ たべないと きが すまない。 たべおわると ねむってしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png
+144,フリーザー,articuno,ice,flying,でんせつの とりポケモン。 くうきちゅうの すいぶんを こおらせ ふぶきを つくりだすことが できる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png
+145,サンダー,zapdos,electric,flying,かみなりぐもの なかに いると いわれる でんせつの ポケモン。 カミナリを じざいに あやつる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png
+146,ファイヤー,moltres,fire,flying,むかしから ひのとりでんせつとして しられる。はばたくたびに はねが あかるく もえあがり うつくしい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png
+147,ミニリュウ,dratini,dragon,,もくげきしゃが すくないために まぼろしのポケモンと よばれていた。 だっぴした かわが みつかっている。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png
+148,ハクリュー,dragonair,dragon,,すいしょうのような タマには てんこうを じゆうに あやつる のうりょくが ひめられているらしい。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png
+149,カイリュー,dragonite,dragon,flying,おおきな たいかくで そらを とぶ。 ちきゅうを やく１６じかんで １しゅう してしまう。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png
+150,ミュウツー,mewtwo,psychic,,ひとりの かがくしゃが なんねんも おそろしい いでんし けんきゅうを つづけた けっか たんじょうした。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png
+151,ミュウ,mew,psychic,,あらゆる わざを つかうため ポケモンの せんぞと かんがえる がくしゃが たくさん いる。,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png
